@@ -1,2 +1,2 @@
 # SpatialAudioMap
-This is the codebase for the Spatial AudioMap project by Angela Zou, Robby Huang, and Kathleen Wang. Our project is a spatial audio map of Ithaca Collegetown that allows the user to use a joystick to virtually travel around the Collegetown crossing area and hear surrounding, directional sound. For a more detailed documentation, please checkout: 
+This is the codebase for the Spatial AudioMap project by Angela Zou, Robby Huang, and Kathleen Wang. Our project is a spatial audio map of Ithaca Collegetown that allows the user to use a joystick to virtually travel around the Collegetown crossing area and hear surrounding, directional sound. For a more detailed documentation, please checkout: https://angelazou2000.github.io/SpatialAudioMap/
